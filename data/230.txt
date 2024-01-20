@@ -1,0 +1,1 @@
+page_content='Black Linen Crop Top\n2 products' metadata={'url': 'https://eu.luxmii.com/collections/black-linen-crop-top', 'title': 'Black Linen Crop Top - LUXMII', 'description': 'Complete any outfit with a black linen crop top cut from pure organic linen'}

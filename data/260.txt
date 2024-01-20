@@ -1,0 +1,1 @@
+page_content='Casual Linen Tops\n15 products' metadata={'url': 'https://eu.luxmii.com/collections/casual-linen-tops', 'title': 'Casual Linen Tops - LUXMII', 'description': "Our casual linen tops are the timeless staples we can't live without"}

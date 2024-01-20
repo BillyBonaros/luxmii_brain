@@ -1,0 +1,1 @@
+page_content='Linen Midi Dress\n18 products' metadata={'url': 'https://eu.luxmii.com/collections/linen-midi-dress', 'title': 'Linen Midi Dress - LUXMII', 'description': 'A linen midi dress is one of the most versatile cuts as it is not only flattering, but also extremely comfortable to wear and easy to style for all occasions.'}

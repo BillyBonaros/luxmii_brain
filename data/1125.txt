@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/safari-linen-wrap-dress-oatmeal-beige', 'title': 'The Safari Linen Wrap Dress Oatmeal Beige - LUXMII', 'description': 'Dress to impress with the Safari Oatmeal Beige Linen Wrap Dress, perfect for any occasion. Cut from luxurious Oeko Tex certified linen and handmade in Greece.'}

@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/the-safari-wrap-dress-khaki', 'title': 'The Safari Linen Wrap Dress Khaki - LUXMII', 'description': 'Shop our best selling colourway - The Safari Khaki Wrap Dress, flattering for every body shape. Cut from pure Oeko Tex certified linen and made in Greece.'}

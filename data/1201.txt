@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/the-safari-linen-wrap-dress-black', 'title': 'The Safari Linen Wrap Dress Black - Luxmii', 'description': 'Shop our best-selling wrap dress - The Safari Black Linen Wrap Dress, a chic must-have. Cut from natural Oeko Tex Certified Italian Linen, made in Greece.'}

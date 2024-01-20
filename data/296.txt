@@ -1,0 +1,1 @@
+page_content='Linen Crop Top\n7 products' metadata={'url': 'https://eu.luxmii.com/collections/linen-crop-top', 'title': 'Linen Crop Top - LUXMII', 'description': 'Our linen crop top is an everyday essential, cut from pure organic linen in precise proportions'}

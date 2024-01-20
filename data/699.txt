@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/giorno-linen-pant-white', 'title': 'Giorno Linen Pant White - LUXMII', 'description': 'What is missing from your everyday wardrobe? The Giorno White Linen Pant. A joy to slip into on the daily. Cut from super-soft organic linen.'}

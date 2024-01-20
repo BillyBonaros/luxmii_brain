@@ -1,0 +1,1 @@
+page_content='Casual Wear\n36 products' metadata={'url': 'https://eu.luxmii.com/collections/casual-wear', 'title': 'Casual Wear - LUXMII', 'description': 'Soft shapes, gentle tones and natural materials invite you to relax in style'}

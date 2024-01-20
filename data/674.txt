@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/gessato-linen-midi-dress-pinstripe', 'title': 'Gessato Linen Midi Dress Black Pinstripe - LUXMII', 'description': 'Shop understated elegance with the lightweight Gessato Pinstripe Linen Midi Dress, one of our newest designs. Made from super-soft, stone-washed pure linen.'}

@@ -1,0 +1,1 @@
+page_content='Linen Slip Dress\n10 products' metadata={'url': 'https://eu.luxmii.com/collections/linen-slip-dress', 'title': 'Linen Slip Dress - LUXMII', 'description': 'The linen slip dress collection is cut from our most luxurious linen and linen/ramie mixes. Simply slip on and enjoy the simplicity of a linen slip dress!'}

@@ -1,0 +1,1 @@
+page_content='Kaftans' metadata={'url': 'https://eu.luxmii.com/collections/kaftans', 'title': 'Kaftans - LUXMII', 'description': 'Holidays start with the perfect kaftan! Discover our linen kaftans handmade by master tailors in easy-to-wear styles.'}

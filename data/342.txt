@@ -1,0 +1,1 @@
+page_content='Luxury Knitwear\n6 products' metadata={'url': 'https://eu.luxmii.com/collections/luxury-knitwear', 'title': 'Luxury Knitwear', 'description': 'Linen, as you have never seen it before. Stretchy, flexible and wrinkle-free. Discover our Luxury Knitwear Collection of elevated daywear ideal for on the go.'}

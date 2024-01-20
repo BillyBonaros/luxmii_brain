@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/vacanza-linen-kaftan-natural', 'title': 'Vacanza Linen Kaftan Natural - LUXMII', 'description': 'Shop resort-wear with the Vacanza Natural Linen Kaftan. Cut from a luxurious Oeko Tex certified Italian linen fabric, handmade Portugal.'}

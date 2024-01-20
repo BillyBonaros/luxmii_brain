@@ -1,0 +1,1 @@
+page_content='Capsules' metadata={'url': 'https://eu.luxmii.com/collections/capsules', 'title': 'Capsules - LUXMII', 'description': 'Explore our Capsules edit that presents effortless outfits for every occasion'}

@@ -1,0 +1,1 @@
+page_content='Best Sellers\nAustralia\ndyed & certified' metadata={'url': 'https://eu.luxmii.com/collections/linen-trousers', 'title': 'Linen Trousers - LUXMII', 'description': 'A well-cut linen trouser adds instant polish to any look. Explore our collection of linen trousers ecologically dyed in versatile neutrals.'}

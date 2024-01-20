@@ -1,0 +1,1 @@
+page_content='available worldwide' metadata={'url': 'https://eu.luxmii.com/products/akadamia-linen-top-white', 'title': 'Akadamia Linen Top White - LUXMII', 'description': 'Instantly enhance the elegance of any outfit with the infinitely lovely Akadamia White Linen Top. Cut from lightweight organic linen and handmade in Portugal.'}

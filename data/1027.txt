@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/pioggia-linen-trouser-black', 'title': 'Pioggia Linen Trouser Black - LUXIMI', 'description': "We're swooning over the new tailored Pioggia Black Linen Trouser. Cut from pure organic linen and handmade in Portugal."}

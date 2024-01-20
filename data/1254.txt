@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/tie-knot-linen-cami-top-black', 'title': 'Tie Knot Linen Cami Top Black - LUXMII', 'description': 'Discover your new go-to cami, the Tie Knot Black Linen Cami Top that’s all things versatile and classy. Cut from pure breathable linen, handmade in Greece.'}

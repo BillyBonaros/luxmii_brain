@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/vacanza-linen-kaftan-white', 'title': 'Vacanza Linen Kaftan White - LUXMII', 'description': 'Your beach holiday wardrobe is sorted with the Vacanza White Linen Kaftan. Stay cool with the light organic linen and floaty shape. Handmade in Portugal.'}

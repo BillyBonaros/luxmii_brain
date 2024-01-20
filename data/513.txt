@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/basique-linen-slip-dress-black', 'title': 'Basique Linen Slip Dress Black - LUXMII', 'description': 'Shop a super-versatile everyday staple, the Basique Linen Slip Dress, that’s a classic, flattering shape. Cut from premium linen, handmade in Portugal.'}

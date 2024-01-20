@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/nuvola-linen-top-black', 'title': 'Nuvola Linen Top Black - LUXMII', 'description': 'We have found the black linen top of your dreams, the ultra-contemporary Nuvola Black Linen Top. Cut from lightweight organic linen and made to last.'}

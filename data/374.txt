@@ -1,0 +1,1 @@
+page_content='White Linen Dress\n9 products' metadata={'url': 'https://eu.luxmii.com/collections/white-linen-dress', 'title': 'White Linen Dress - LUXMII', 'description': 'Everybody needs a white linen dress! The foundation to building a well thought wardrobe is by collecting seasonless staples you can rely on year after year.'}

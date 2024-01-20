@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/figurati-linen-gilet-top-sky-blue', 'title': 'Figurati Linen Gilet Top Sky Blue - LUXMII', 'description': 'Elegantly add the waistcoat trend to your closet with the Figurati Sky Blue Linen Gilet Top. Cut from pure organic linen and handmade in Portugal.'}

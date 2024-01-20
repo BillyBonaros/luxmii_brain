@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/vacanza-linen-kaftan-black', 'title': 'Vacanza Linen Kaftan Black - LUXMII', 'description': 'Shop your new favourite Summertime look, the glamorous Vacanza Black Linen Kaftan. Cut from lightweight organic linen and handmade in Portugal.'}

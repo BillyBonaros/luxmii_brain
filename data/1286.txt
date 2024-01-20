@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/tie-knot-white-capri-pants', 'title': 'Tie-Knot Linen White Capri Pants - LUXMII', 'description': 'Uplift your everyday look with the Tie-Knot Linen White Capri Pants that combine soft natural linens with an easy-to-wear refined design. Handmade in Greece.'}

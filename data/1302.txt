@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/tresor-ramie-linen-maxi-skirt-black', 'title': 'Trésor Ramie Linen Midi Skirt Black - LUXMII', 'description': 'Shop a weightless midi skirt you’ll be wearing on rotation, the Trésor Ramie Black Linen Midi Skirt. Both stylish and comfortable. Cut from a linen blend.'}

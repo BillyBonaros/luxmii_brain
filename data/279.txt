@@ -1,0 +1,1 @@
+page_content='Knitwear Dresses\n2 products' metadata={'url': 'https://eu.luxmii.com/collections/knitwear-dresses', 'title': 'Knitwear Dresses', 'description': 'Linen, as you have never seen it before. Stretchy, flexible and wrinkle-free. Discover our Luxury Knitwear Dresses of elevated daywear ideal for on the go.'}

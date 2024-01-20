@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/bellez-linen-maxi-dress-white', 'title': 'Bellez Linen Maxi Dress White - LUXMII', 'description': 'Feel like your most elegant self with the Bellez Linen White Maxi Dress. A forever piece to add to your warm weather line-up. Cut from pure organic linen.'}

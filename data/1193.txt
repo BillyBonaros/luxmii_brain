@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/the-farfalla-midi-dress-white', 'title': 'Farfalla Linen Midi Dress White - LUXMII', 'description': 'Discover the Farfalla White Linen Midi Dress, the perfect work and play companion. Versatile, timeless and perfect for everyday wear.'}

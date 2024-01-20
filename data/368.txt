@@ -1,0 +1,1 @@
+page_content='Free Express Shipping available worldwide' metadata={'url': 'https://eu.luxmii.com/collections/vacation-mode', 'title': 'Vacation Mode - LUXMII', 'description': 'Made from signature premium linen fabrics, ecologically dyed into a range of neutral and vibrant tones, our Vacation Mode Edit styles will have you feeling holiday ready.'}

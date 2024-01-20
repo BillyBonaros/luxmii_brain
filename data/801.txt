@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/ionia-linen-midi-dress', 'title': 'Ionia Linen Midi Dress Black', 'description': 'Introducing the Ionia Linen Midi Dress in Natural Beige, a well-cut garment designed to flatter all body shapes while effortlessly transitioning from the office to after-work festivities.'}

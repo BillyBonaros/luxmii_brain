@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/lorigami-slip-dress-white', 'title': 'L’origami Linen Slip Dress White - Luxmii', 'description': "Shop our most loved linen, the L'origami White Linen Slip Dress."}

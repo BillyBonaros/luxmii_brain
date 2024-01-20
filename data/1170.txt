@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/the-farfalla-midi-dress-forest-green', 'title': 'Farfalla Linen Midi Dress Forest - LUXMII', 'description': 'Shop the beloved Farfalla Forest Linen Midi Dress, dyed in a stunning deep green tone. Versatile, timeless and perfect for everyday wear.'}

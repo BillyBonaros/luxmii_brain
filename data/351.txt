@@ -1,0 +1,1 @@
+page_content='Outerwear\n2 products' metadata={'url': 'https://eu.luxmii.com/collections/outerwear', 'title': 'Outerwear', 'description': 'Refine your wardrobe with our lightweight Outerwear collection. Go-to sporty jackets and dressier designs will take you from season to season with ease.'}

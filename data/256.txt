@@ -1,0 +1,1 @@
+page_content='Casual Linen Pants\n6 products' metadata={'url': 'https://eu.luxmii.com/collections/casual-linen-pants', 'title': 'Casual Linen Pants - LUXMII', 'description': 'The casual interweaves with the elegant in our collection of casual linen pants'}

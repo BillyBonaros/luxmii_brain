@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/nuvola-linen-top-white', 'title': 'Nuvola Linen Top White - LUXMII', 'description': 'We have found the white linen top of your dreams, the ultra-contemporary Nuvola White Linen Top. Cut from lightweight organic linen and made to last.'}

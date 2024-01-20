@@ -1,0 +1,1 @@
+page_content='Athleisure\n8 products' metadata={'url': 'https://eu.luxmii.com/collections/athleisure', 'title': 'Athleisure - LUXMII', 'description': 'Discover our natural twist on activewear with the Athleisure collection, made from breathable linen. It’s where polished everyday pieces merge with the elegant.'}

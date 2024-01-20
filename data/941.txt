@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/milos-white-linen-dress', 'title': 'Milos Linen Dress - LUXMII', 'description': 'Make looking elegant easy with the Milos Linen Dress, a lightweight piece you’ll slip into whatever the day. Cut in a linen cotton blend, handmade in Greece.'}

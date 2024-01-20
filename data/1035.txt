@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/pioggia-linen-trouser-sky-blue', 'title': 'Pioggia Linen Trouser Sky Blue - LUXIMI', 'description': "We're swooning over the new tailored Pioggia Sky Blue Linen Trouser. Dyed in a fresh sky blue colourway. Cut from pure organic linen and handmade in Portugal."}

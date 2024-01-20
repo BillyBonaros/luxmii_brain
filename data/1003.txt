@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/piega-black-linen-trouser', 'title': 'Piega Black Linen Trouser - LUXMII', 'description': 'Shop the classic and polished Piega Black Linen Trousers, ideal for business or lunch. Cut from a light linen cotton blend and handmade in Greece.'}

@@ -1,0 +1,1 @@
+page_content='Casual Linen Dresses\n8 products' metadata={'url': 'https://eu.luxmii.com/collections/casual-linen-dresses', 'title': 'Casual Linen Dresses - LUXMII', 'description': 'An ode to uncomplicated design, our casual linen dresses are made for the everyday'}

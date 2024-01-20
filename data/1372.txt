@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/zulu-linen-wrap-dress', 'title': 'Zulu Linen Wrap Dress in Natural - Luxmii', 'description': "Shop the stunning Zulu Natural Linen Wrap Dress that hugs the body in all the right places. It's cut from pure, sustainable European fabrics."}

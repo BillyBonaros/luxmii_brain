@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/tie-knot-oatmeal-capri-pants', 'title': 'Tie-Knot Linen Oatmeal Capri Pants - LUXMII', 'description': 'Shop pure comfort with the Tie-Knot Oatmeal Capri Pants you’ll love to wear on the daily. Sustainably dyed in a versatile neutral and handmade in Greece.'}

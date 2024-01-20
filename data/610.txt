@@ -1,0 +1,1 @@
+page_content='the Mediterranean\navailable worldwide' metadata={'url': 'https://eu.luxmii.com/products/cropped-lacetti-white-cropped-top', 'title': 'Cropped Lacetti Linen Top White - LUXMII', 'description': 'Add pretty feminine linens to your collection with the Cropped Lacetti White Linen Top. Cut from pure linen that’s comfortable and soft on the skin.'}
